@@ -1,0 +1,95 @@
+
+h1 {
+
+    text-align: center;
+margin-top: 0;
+margin-bottom: 1 rem;
+color: #ffffff;
+}
+
+.btn-primary {
+  position: relative; 
+ left: 390px; 
+ top: -38px;
+ background-color: #ffffff !important;
+ border-color: #ffffff !important;
+ color: #000000 !important;
+ 
+}
+
+.btn-light {
+  position: relative; 
+ left: 410px; 
+ top: -38px;
+ background-color: #ffffff !important;
+ border-color: #ffffff !important;
+ color: #000000 !important;
+ 
+}
+
+
+.container {
+  font-family: 'Cabin', serif;
+  border: 1px solid ;
+  border-radius: 8px;
+  padding: 10px 20px 20px 50px;
+  margin: 100px; 
+  background: linear-gradient(#b56576, #6d597a)
+
+}
+
+.main-temperature {
+  font-weight: bold;
+  padding: 0px 0px 0px 15px;
+list-style: none;
+
+}
+
+.main-temperature h2 {
+  color: #ffffff;
+}
+
+.main-temperature p {
+  color:#ffffff;
+  font-weight: bold;
+}
+
+
+.weather-info ul {
+  position: relative;
+  left: 50px; 
+  list-style: none;
+  padding: 10px 0 0 0; 
+  color: #000000;
+}
+
+.weather-info li {
+  padding: 2px; 
+}
+
+.location {
+ position: relative;
+ left: 50px;
+ top: 10px;
+
+}
+
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.special { 
+  font-size: 30px;
+  text-decoration: none;
+  text-decoration-color: #000000;
+}
+
+.display-temp {
+  font-size: 25px;
+}
